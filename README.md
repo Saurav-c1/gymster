@@ -1,1 +1,1 @@
-# gymster
+# FitnessHub
